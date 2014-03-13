@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $(".vimeo").colorbox({iframe:true, innerWidth:900, innerHeight:500});
+    $(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
 });
